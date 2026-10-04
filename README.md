@@ -18,4 +18,3 @@ User-Friendly Interface – Designed using Python’s Tkinter or terminal-based 
 
 Outcome:
 This system effectively demonstrates the use of Python for real-world problem solving in smart infrastructure. It received positive feedback during the project demonstration event at CIET College, Coimbatore, highlighting its practicality and potential for use in commercial/residential parking lots.
-With efficient usage of time.
