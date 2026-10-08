@@ -16,5 +16,8 @@ Real-Time Slot Monitoring – Displays total, occupied, and free parking slots i
 Admin Interface – Allows administrators to view logs, update slot status, and manage records.
 User-Friendly Interface – Designed using Python’s Tkinter or terminal-based UI for ease of interaction.
 
+Future Planned:
+Want to develop a full working model.
+
 Outcome:
 This system effectively demonstrates the use of Python for real-world problem solving in smart infrastructure. It received positive feedback during the project demonstration event at CIET College, Coimbatore, highlighting its practicality and potential for use in commercial/residential parking lots.
